@@ -26,7 +26,7 @@ git push -f https://github.com/Sogrey/Pagic-template.git main # main分支存放
 
 echo -e "\033[32;40m [2/3] \033[0m Building static files"
 # 生成静态文件
-npm run start
+npm run build
 
 echo -e "\033[32;40m [3/3] \033[0m commit 2 gh-pages branch"
 # 进入生成的文件夹
