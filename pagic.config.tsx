@@ -2,7 +2,7 @@
 import React from 'https://dev.jspm.io/react@16.13.1';
 
 export default {
-  srcDir: 'src',//源文件目录
+  srcDir: '.',//源文件目录
   outDir: 'dist',//输出目录
   exclude: [],
   root: "/pagic-template/",//https:yoursite.com/root/

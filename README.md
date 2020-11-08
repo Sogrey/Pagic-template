@@ -1,5 +1,8 @@
+---
+next: introduction/README.md
+---
 
-# Pagic-template
+# 首页
 
 ## Install deno
 
@@ -46,7 +49,7 @@ mkdir site && cd site && echo "export default {};" > pagic.config.ts && echo "# 
 pagic build --watch --serve
 ```
 
-## Other
+自定义端口：
 
-自定义端口：`--port 8001`
+`--port 8001`
 
