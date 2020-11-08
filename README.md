@@ -46,5 +46,7 @@ mkdir site && cd site && echo "export default {};" > pagic.config.ts && echo "# 
 pagic build --watch --serve
 ```
 
+## Other
+
 自定义端口：`--port 8001`
 
