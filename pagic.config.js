@@ -4,7 +4,7 @@ export default {
     srcDir: '.',
     outDir: 'dist',
     exclude: [],
-    root: "/pagic-template/",
+    root: "/Pagic-template/",
     theme: 'docs',
     plugins: ['sidebar', 'prev_next', 'gitalk'],
     title: 'pagic模板',

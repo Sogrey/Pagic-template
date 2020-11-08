@@ -1,5 +1,5 @@
-import projectConfig from '/pagic-template/pagic.config.js';
-import Gitalk from '/pagic-template/_gitalk.js';
+import projectConfig from '/Pagic-template/pagic.config.js';
+import Gitalk from '/Pagic-template/_gitalk.js';
 export default {
     'prev': {
         "title": "首页",
@@ -21,7 +21,7 @@ export default {
     'script': React.createElement(React.Fragment, null,
         React.createElement("script", { src: "https://cdn.pagic.org/react@16.13.1/umd/react.production.min.js" }),
         React.createElement("script", { src: "https://cdn.pagic.org/react-dom@16.13.1/umd/react-dom.production.min.js" }),
-        React.createElement("script", { src: "/pagic-template/index.js", type: "module" })),
+        React.createElement("script", { src: "/Pagic-template/index.js", type: "module" })),
     'contentTitle': React.createElement("h1", { key: "0" }, "\u7B80\u4ECB"),
     'contentBody': React.createElement("article", { dangerouslySetInnerHTML: {
             __html: '<p>具体内容包括：</p>\n<ul>\n<li><a href="introduction1.html">简介一</a></li>\n<li><a href="introduction2.html">简介二</a></li>\n</ul>\n<h2 id="%E4%BA%8C%E7%BA%A7%E6%A0%87%E9%A2%98">二级标题<a class="anchor" href="#%E4%BA%8C%E7%BA%A7%E6%A0%87%E9%A2%98">§</a></h2>\n<h2 id="%E4%BA%8C%E7%BA%A7%E6%A0%87%E9%A2%982">二级标题2<a class="anchor" href="#%E4%BA%8C%E7%BA%A7%E6%A0%87%E9%A2%982">§</a></h2>'
@@ -33,7 +33,7 @@ export default {
     'contributors': [
         "Sogrey"
     ],
-    'date': "2020-11-08T18:06:14.000Z",
+    'date': "2020-11-08T18:09:37.000Z",
     'updated': null,
     'sidebar': [
         {

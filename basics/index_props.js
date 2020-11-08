@@ -1,5 +1,5 @@
-import projectConfig from '/pagic-template/pagic.config.js';
-import Gitalk from '/pagic-template/_gitalk.js';
+import projectConfig from '/Pagic-template/pagic.config.js';
+import Gitalk from '/Pagic-template/_gitalk.js';
 export default {
     'prev': {
         "title": "简介二",
@@ -21,7 +21,7 @@ export default {
     'script': React.createElement(React.Fragment, null,
         React.createElement("script", { src: "https://cdn.pagic.org/react@16.13.1/umd/react.production.min.js" }),
         React.createElement("script", { src: "https://cdn.pagic.org/react-dom@16.13.1/umd/react-dom.production.min.js" }),
-        React.createElement("script", { src: "/pagic-template/index.js", type: "module" })),
+        React.createElement("script", { src: "/Pagic-template/index.js", type: "module" })),
     'contentTitle': React.createElement("h1", { key: "0" }, "\u57FA\u7840"),
     'contentBody': React.createElement("article", { dangerouslySetInnerHTML: {
             __html: '<p>具体内容包括：</p>\n<ul>\n<li><a href="basics1.html">基础一</a></li>\n<li><a href="basics2.html">基础二</a></li>\n</ul>'
@@ -31,7 +31,7 @@ export default {
     'contributors': [
         "Sogrey"
     ],
-    'date': "2020-11-08T18:06:14.000Z",
+    'date': "2020-11-08T18:09:37.000Z",
     'updated': null,
     'sidebar': [
         {
