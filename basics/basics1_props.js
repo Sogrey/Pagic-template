@@ -31,7 +31,7 @@ export default {
     'contributors': [
         "Sogrey"
     ],
-    'date': "2020-11-08T18:09:37.000Z",
+    'date': "2020-11-08T18:17:36.000Z",
     'updated': null,
     'sidebar': [
         {

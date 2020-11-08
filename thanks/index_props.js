@@ -12,7 +12,7 @@ export default {
     'outputPath': "thanks/index.html",
     'title': "感谢",
     'content': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<h1>感谢</h1>\n<p>感谢</p>'
+            __html: '<h1>感谢</h1>\n<ul>\n<li>由<a href="https://deno.land/">deno</a>驱动</li>\n<li>基于<a href="https://pagic.org/">pagic</a></li>\n<li>此项目参考[<a href="https://github.com/xcatliu/typescript-tutorial">https://github.com/xcatliu/typescript-tutorial</a>]为模板</li>\n</ul>'
         } }),
     'head': React.createElement("link", { href: "/favicon.png", rel: "icon", type: "image/png" }),
     'script': React.createElement(React.Fragment, null,
@@ -21,14 +21,14 @@ export default {
         React.createElement("script", { src: "/Pagic-template/index.js", type: "module" })),
     'contentTitle': React.createElement("h1", { key: "0" }, "\u611F\u8C22"),
     'contentBody': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<p>感谢</p>'
+            __html: '<ul>\n<li>由<a href="https://deno.land/">deno</a>驱动</li>\n<li>基于<a href="https://pagic.org/">pagic</a></li>\n<li>此项目参考[<a href="https://github.com/xcatliu/typescript-tutorial">https://github.com/xcatliu/typescript-tutorial</a>]为模板</li>\n</ul>'
         } }),
     'toc': null,
     'author': "Sogrey",
     'contributors': [
         "Sogrey"
     ],
-    'date': "2020-11-08T18:09:37.000Z",
+    'date': "2020-11-08T18:17:36.000Z",
     'updated': null,
     'sidebar': [
         {
