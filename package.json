@@ -7,7 +7,7 @@
     "init-pagic": "deno install -f --unstable --allow-read --allow-write --allow-net --allow-run --name=pagic https://deno.land/x/pagic/mod.ts",
     "start": "pagic build --serve --watch",
     "build": "pagic build --serve",
-    "deploy": "bash deploy.sh"
+    "deploy": "npm start & bash deploy.sh"
   },
   "repository": {
     "type": "git",
