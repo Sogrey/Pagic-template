@@ -31,7 +31,7 @@ export default {
     'contributors': [
         "Sogrey"
     ],
-    'date': "2020-11-08T18:17:36.000Z",
+    'date': "2020-11-08T18:23:07.000Z",
     'updated': null,
     'sidebar': [
         {
@@ -81,5 +81,5 @@ export default {
     ],
     'gitalk': React.createElement(Gitalk, { admin: [
             'Sogrey'
-        ], clientID: "158e9588da5b3bf66565", clientSecret: "9d1191980a7d801c149816a43a32320a1c134f98", id: "introduction/introduction1.html", owner: "Sogrey", pagerDirection: "first", repo: "Pagic-template", title: "\u7B80\u4ECB\u4E00" })
+        ], clientID: "158e9588da5b3bf66565", clientSecret: "6d2e07166ca2301b832c6d3c17feb70c6156b323", id: "introduction/introduction1.html", owner: "Sogrey", pagerDirection: "first", repo: "Pagic-template", title: "\u7B80\u4ECB\u4E00" })
 };
