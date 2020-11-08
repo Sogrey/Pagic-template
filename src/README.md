@@ -1,5 +1,8 @@
+---
+next: introduction/README.md
+---
 
-# Pagic-template
+# 首页
 
 ## Install deno
 

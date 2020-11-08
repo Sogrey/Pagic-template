@@ -2,8 +2,10 @@
 import React from 'https://dev.jspm.io/react@16.13.1';
 
 export default {
-  srcDir: '.',
-  exclude: ['examples'],
+  srcDir: 'src',//源文件目录
+  outDir: 'dist',//输出目录
+  exclude: [],
+  root: "/pagic-template/",//https:yoursite.com/root/
   theme: 'docs',
   plugins: ['sidebar', 'prev_next', 'gitalk'],
   title: 'pagic模板',
@@ -25,6 +27,7 @@ export default {
   ],
   sidebar: {
     '/': [
+      'README.md',
       {
         link: 'introduction/README.md',
         children: [
