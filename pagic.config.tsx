@@ -51,7 +51,7 @@ export default {
   },
   gitalk: {
     clientID: '158e9588da5b3bf66565',
-    clientSecret: '9d1191980a7d801c149816a43a32320a1c134f98',
+    clientSecret: '6d2e07166ca2301b832c6d3c17feb70c6156b323',
     repo: 'Pagic-template',
     owner: 'Sogrey',
     admin: ['Sogrey'],
