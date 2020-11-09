@@ -14,9 +14,9 @@
     "url": "git+https://github.com/sogrey/pagic-template.git"
   },
   "keywords": [
-    "typescript",
-    "tutorial",
-    "javascript"
+    "pagic",
+    "deno",
+    "typescript"
   ],
   "author": "Sogrey",
   "license": "MIT",
