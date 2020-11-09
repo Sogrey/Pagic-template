@@ -17,8 +17,8 @@ export default {
             link: 'https://sogrey.top/',
             target: '_blank',
             popover: (React.createElement(React.Fragment, null,
-                React.createElement("img", { src: "/assets/wechat.jpg", width: "256", style: { marginRight: '1rem', verticalAlign: 'top' } }),
-                React.createElement("img", { src: "/assets/alipay.jpg", width: "256", style: { verticalAlign: 'top' } })))
+                React.createElement("img", { src: "./assets/wechat.jpg", width: "256", style: { marginRight: '1rem', verticalAlign: 'top' } }),
+                React.createElement("img", { src: "./assets/alipay.jpg", width: "256", style: { verticalAlign: 'top' } })))
         }
     ],
     sidebar: {
