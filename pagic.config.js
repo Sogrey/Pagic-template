@@ -17,7 +17,7 @@ export default {
             link: 'https://sogrey.top/',
             target: '_blank',
             popover: (React.createElement(React.Fragment, null,
-                React.createElement("img", { src: "./Pagic-template/assets/wechat.jpg", width: "256", style: { marginRight: '1rem', verticalAlign: 'top' } }),
+                React.createElement("img", { src: "./Pagic-template/assets/wechat.png", width: "256", style: { marginRight: '1rem', verticalAlign: 'top' } }),
                 React.createElement("img", { src: "./Pagic-template/assets/alipay.jpg", width: "256", style: { verticalAlign: 'top' } })))
         }
     ],
