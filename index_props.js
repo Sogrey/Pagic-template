@@ -30,7 +30,7 @@ export default {
     'contributors': [
         "Sogrey"
     ],
-    'date': "2020-11-09T02:39:50.000Z",
+    'date': "2020-11-09T16:30:11.000Z",
     'updated': null,
     'sidebar': [
         {
