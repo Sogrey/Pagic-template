@@ -19,8 +19,8 @@ export default {
       target: '_blank',
       popover: (
         <>
-          <img src="./assets/wechat.jpg" width="256" style={{ marginRight: '1rem', verticalAlign: 'top' }} />
-          <img src="./assets/alipay.jpg" width="256" style={{ verticalAlign: 'top' }} />
+          <img src="./Pagic-template/assets/wechat.jpg" width="256" style={{ marginRight: '1rem', verticalAlign: 'top' }} />
+          <img src="./Pagic-template/assets/alipay.jpg" width="256" style={{ verticalAlign: 'top' }} />
         </>
       )
     }
