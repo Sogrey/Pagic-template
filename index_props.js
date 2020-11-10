@@ -30,8 +30,10 @@ export default {
     'contributors': [
         "Sogrey"
     ],
-    'date': "2020-11-09T16:36:56.000Z",
+    'date': "2020-11-10T17:04:07.000Z",
     'updated': null,
+    'excerpt': "Install deno Deno ships as a single executable with no dependencies. You can install it using the installers below, or download a release binary from the releases page. Shell (Mac, Linux): curl -fsSL https://de...",
+    'cover': undefined,
     'sidebar': [
         {
             "title": "首页",

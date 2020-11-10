@@ -31,8 +31,10 @@ export default {
     'contributors': [
         "Sogrey"
     ],
-    'date': "2020-11-09T16:36:56.000Z",
+    'date': "2020-11-10T17:04:07.000Z",
     'updated': null,
+    'excerpt': "基础内容一",
+    'cover': undefined,
     'sidebar': [
         {
             "title": "首页",
