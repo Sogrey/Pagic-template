@@ -4,7 +4,7 @@
   "description": "这是一个Pagic示例项目",
   "main": "README.md",
   "scripts": {
-    "init-pagic": "deno install -f --unstable --allow-read --allow-write --allow-net --allow-run --name=pagic https://deno.land/x/pagic/mod.ts",
+    "init-pagic": "deno install -f --unstable --allow-read --allow-write --allow-net --allow-run --name=pagic https://deno.land/x/pagic@v0.12.0/mod.ts",
     "start": "pagic build --serve --watch",
     "build": "pagic build",
     "deploy": "git init & git add -A & git commit -m 'Publish' & git push -f https://github.com/Sogrey/Pagic-template.git main"
