@@ -7,7 +7,7 @@ export default {
     root: "/Pagic-template/",
     theme: 'docs',
     plugins: ['sidebar', 'prev_next', 'gitalk'],
-    title: 'pagic模板',
+    title: 'Pagic模板',
     description: '一个pagic模板项目。',
     github: 'https://github.com/sogrey/pagic-template',
     head: React.createElement("link", { rel: "icon", type: "image/png", href: "/favicon.png" }),
