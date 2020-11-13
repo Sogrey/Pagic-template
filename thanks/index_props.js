@@ -28,7 +28,7 @@ export default {
     'contributors': [
         "Sogrey"
     ],
-    'date': "2020-11-12T15:07:03.000Z",
+    'date': "2020-11-13T18:21:48.000Z",
     'updated': null,
     'excerpt': " - 由deno驱动 - 基于pagic - 此项目参考[https://github.com/xcatliu/typescript-tutorial]为模板",
     'cover': undefined,

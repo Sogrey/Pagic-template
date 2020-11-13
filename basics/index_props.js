@@ -31,7 +31,7 @@ export default {
     'contributors': [
         "Sogrey"
     ],
-    'date': "2020-11-12T15:07:03.000Z",
+    'date': "2020-11-13T18:21:48.000Z",
     'updated': null,
     'excerpt': "具体内容包括： - 基础一 - 基础二",
     'cover': undefined,
