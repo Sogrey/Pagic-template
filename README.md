@@ -4,7 +4,7 @@ next: introduction/README.md
 
 # 首页
 
-## Install deno
+## 1.Install deno
 
 Deno ships as a single executable with no dependencies. You can install it using the installers below, or download a release binary from [the releases page](https://github.com/denoland/deno/releases).
 
@@ -34,17 +34,17 @@ cargo install deno
 ```
 See deno_install for more installation options.
 
-## Install pagic
+## 2.Install pagic
 ``` deno
 deno install --unstable --allow-read --allow-write --allow-net --allow-run --name=pagic https://deno.land/x/pagic/mod.ts
 ```
 
-## Create pagic.config.ts and README.md
+## 3.Create pagic.config.ts and README.md
 ```
 mkdir site && cd site && echo "export default {};" > pagic.config.ts && echo "# Hello world" > README.md
 ```
 
-## Run pagic
+## 4.Run pagic
 ``` pagic
 pagic build --watch --serve
 ```
