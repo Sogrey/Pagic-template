@@ -31,7 +31,7 @@ export default {
     'contributors': [
         "Sogrey"
     ],
-    'date': "2020-11-13T18:21:48.000Z",
+    'date': "2020-11-16T15:38:15.000Z",
     'updated': null,
     'excerpt': "巴拉巴拉小魔仙",
     'cover': undefined,
